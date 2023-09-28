@@ -1,5 +1,12 @@
 # **Bankist**
-This website was created in order to showcase my skills as a web developer. I created this in order to become more comfortable with HTML and CSS, while also providing a way for employers to see my work.
+This application was created in order to become more comfortable using JavaScript. In particular, this helped me become more proficient in using JavaScript arrays and their various methods through an interactive and fun-to-use banking application.
+
+## **Logins**
+1. username - lm | password 1111
+2. username - jd | password 2222
+3. username - stw | password 3333
+4. username - ss | password 4444
+**Use thses to go between accounts when transferring money**
 
 ![alt text](https://github.com/loganmceldowney/Bankist/blob/main/bankist-app-full.png)
 
