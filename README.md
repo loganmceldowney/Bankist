@@ -1,7 +1,7 @@
 # **Bankist**
 This website was created in order to showcase my skills as a web developer. I created this in order to become more comfortable with HTML and CSS, while also providing a way for employers to see my work.
 
-![alt text](https://github.com/loganmceldowney/Bankist/blob/main/bankist-app-full.png?raw=true)
+![alt text](https://github.com/loganmceldowney/Bankist/blob/main/bankist-app-full.png)
 
 ## **Project Purpose & Goal**
 The primary motivation behind creating this application was to showcase my advanced proficiency in JavaScript, with a particular focus on mastering arrays and their diverse methods. Through this project, I aimed not only to demonstrate my technical expertise but also to provide an interactive and engaging user experience.
