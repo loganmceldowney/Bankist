@@ -6,7 +6,8 @@ This application was created in order to become more comfortable using JavaScrip
 2. username - jd | password 2222
 3. username - stw | password 3333
 4. username - ss | password 4444
-**Use thses to go between accounts when transferring money**
+
+**Use these logins to switch between accounts when transferring money**
 
 ![alt text](https://github.com/loganmceldowney/Bankist/blob/main/bankist-app-full.png)
 
