@@ -29,8 +29,8 @@ Moreover, I attempted to create a visually appealing yet functional application.
 ## **Things I Learned**
 * DOM Manipulation
 * Array Manipulation
-* DOM Manipulation
 * Event Handling
 * Array Methods
 * Looping Arrays
 * Sorting Data
+* Error Messages
