@@ -34,6 +34,7 @@ nav {
 }
 
 .login {
+  position: relative;
   display: flex;
 }
 
@@ -92,12 +93,23 @@ nav {
   transition: all 1s;
 }
 
-.error {
+.login-alert {
+  position: absolute;
+  bottom: -100%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  color: #e52a5a;
+  font-weight: 500;
+  text-align: center;
+  transition: all 0.3s;
+  opacity: 0;
+}
+
+.alert {
   position: absolute;
   top: 0;
   left: 50%;
   transform: translate(-50%, 0);
-  background-image: linear-gradient(to top left, #e52a5a, #ff585f);
   border-radius: 1rem;
   padding: 1rem 3rem;
   color: #333;
@@ -106,11 +118,19 @@ nav {
   opacity: 0;
 }
 
-.error-heading {
+.error {
+  background-image: linear-gradient(to top left, #e52a5a, #ff585f);
+}
+
+.success {
+  background-image: linear-gradient(to top left, #39b385, #9be15d);
+}
+
+.alert-heading {
   margin-bottom: 0;
 }
 
-.error-message {
+.alert-message {
   font-size: 1.2rem;
 }
 
